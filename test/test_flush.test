@@ -1,0 +1,3 @@
+<launch>
+  <test test-name="test_flush" pkg="example_broken_rostest" type="test_flush.py" />
+</launch>
